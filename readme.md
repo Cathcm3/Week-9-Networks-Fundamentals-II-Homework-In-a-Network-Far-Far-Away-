@@ -1,4 +1,4 @@
-## Networks Fundamentals II Homework: *In a Network Far, Far Away!*
+## Networks Fundamentals II Homework: *In a Network Far, Far Away!
 
 ### Background
 
@@ -180,14 +180,12 @@ Your Mission:
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.        
 
 ---
-  
-## :sunglasses: `Ketan Vithal Patel` :sunglasses:  
 
+## Week 9 Homework Solution: 
 
-### `Thursday May 20, 2021 -- UofT Cybersecurity - Boot Camp`
-#### :rose::rose:`Jai Shri Swaminarayan`:rose::rose:
-```
-હરે કૃષ્ણ હરે કૃષ્ણ, કૃષ્ણ કૃષ્ણ હરે હરે |  Hare Krishna Hare Krishna, Krishna Krishna Hare Hare |
-હરે રામ હરે રામ, રામ રામ હરે હરે ||   Hare Ram Hare Ram, Ram Ram Hare Hare ||
-```
----  
+Refer to the following solution files for the homework worksheets: 
+
+* [Networks Fundamentals II Homework: *In a Network Far, Far Away!](https://github.com/karma-786/Week-9-Networks-Fundamentals-II-Homework-In-a-Network-Far-Far-Away-/blob/main/Networks%20Fundamentals%20II%20Homework:%20In%20a%20Network%20Far%2C%20Far%20Away!.md)  
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
