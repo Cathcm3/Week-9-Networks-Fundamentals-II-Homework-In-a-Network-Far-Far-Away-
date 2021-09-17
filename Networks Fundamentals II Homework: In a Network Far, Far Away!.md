@@ -243,9 +243,9 @@ As a thank you for saving the galaxy, the Resistance wants to send you a secret 
 - Follow the steps from the `TXT` record.
   - **Note:** A backup option is provided in the `TXT` record (as a website) in case the main telnet site is unavailable
 
-- Take a screen shot of the results.
+- Take a screen shot of the results.  
   ![nslookup type=TXT princessleiadotsite](https://github.com/karma-786/Week-9-Networks-Fundamentals-II-Homework-In-a-Network-Far-Far-Away-/blob/main/Images/7-1%20nslookup%20type%3DTXT%20princessleiadotsite.png)  
-  **princessleia.site	text = "Run the following in a command line: telnet towel.blinkenlights.nl or as a backup access in a browser: www.asciimation.co.nz"**  
+  **princessleia.site	text = "Run the following in a command line: telnet towel.blinkenlights.nl or as a backup access in a browser: www.asciimation.co.nz/#"**  
   
   **telnet towel.blinkenlights.nl**  
   ![telnet towel.blinkenlights_nl](https://github.com/karma-786/Week-9-Networks-Fundamentals-II-Homework-In-a-Network-Far-Far-Away-/blob/main/Images/7-2%20telnet%20towel.blinkenlights_nl.png)  
