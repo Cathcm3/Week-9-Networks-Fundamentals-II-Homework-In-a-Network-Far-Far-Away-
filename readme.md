@@ -1,4 +1,4 @@
-## Networks Fundamentals II Homework: *In a Network Far, Far Away!
+## Networks Fundamentals II Homework: In a Network Far, Far Away!
 
 ### Background
 
@@ -185,7 +185,7 @@ Your Mission:
 
 Refer to the following solution files for the homework worksheets: 
 
-* [Networks Fundamentals II Homework: *In a Network Far, Far Away!](https://github.com/karma-786/Week-9-Networks-Fundamentals-II-Homework-In-a-Network-Far-Far-Away-/blob/main/Networks%20Fundamentals%20II%20Homework:%20In%20a%20Network%20Far%2C%20Far%20Away!.md)  
+* [Networks Fundamentals II Homework: In a Network Far, Far Away!](https://github.com/karma-786/Week-9-Networks-Fundamentals-II-Homework-In-a-Network-Far-Far-Away-/blob/main/Networks%20Fundamentals%20II%20Homework:%20In%20a%20Network%20Far%2C%20Far%20Away!.md)  
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
