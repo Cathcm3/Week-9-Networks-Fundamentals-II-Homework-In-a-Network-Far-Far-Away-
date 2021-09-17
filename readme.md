@@ -176,5 +176,18 @@ Your Mission:
 - Congratulations, you have completed your mission and saved the Galaxy!
 
 ---
+
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.        
+
+---
   
+## :sunglasses: `Ketan Vithal Patel` :sunglasses:  
+
+
+### `Thursday May 20, 2021 -- UofT Cybersecurity - Boot Camp`
+#### :rose::rose:`Jai Shri Swaminarayan`:rose::rose:
+```
+હરે કૃષ્ણ હરે કૃષ્ણ, કૃષ્ણ કૃષ્ણ હરે હરે |  Hare Krishna Hare Krishna, Krishna Krishna Hare Hare |
+હરે રામ હરે રામ, રામ રામ હરે હરે ||   Hare Ram Hare Ram, Ram Ram Hare Hare ||
+```
+---  
